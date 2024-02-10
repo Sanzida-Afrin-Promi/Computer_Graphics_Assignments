@@ -20,4 +20,6 @@ The modification involves :
 + **Intermediate Coordinates:** {(1, 1), (1, 2), (2, 3), (2, 4), (3, 5), (3, 6), (4, 7), (4, 8)}
 + **Decision Variables:**  {-1, 5, -3, 3, -5, 1, -7, -1}
 + **Figure:**
+  ![fig2](https://github.com/Sanzida-Afrin-Promi/Computer_Graphics_Assignments/assets/90341213/9301b1f4-70ef-4d64-96b5-4c7fcf2ed4b7)
+
   
