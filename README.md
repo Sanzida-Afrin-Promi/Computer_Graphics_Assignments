@@ -8,14 +8,14 @@ The modification involves :
 + **Swapping Coordinates:** The X and Y coordinates of the input points are swapped.
 + **Decision Parameter Modification:** The best case for decision parameter (d) is adjusted to d_new = 2 * dx - dy  and for general case, decision parameter (d) is adjusted to d_new = d + 2 * dx - 2 * dy
   
-#### For Case 1: (1,1),(8,4)
+### For Case 1: (1,1),(8,4)
 + **Slope :** m=(4-1)/(8-1)=3/7<1
 + **Intermediate Coordinates:** {(1, 1), (2, 1), (3, 2), (4, 2), (5, 2), (6, 3), (7, 3), (8, 4)}
 + **Decision Variables:**  {-1, 5, -3, 3, -5, 1, -7, -1}
 + **Figure:**
    ![fig1](https://github.com/Sanzida-Afrin-Promi/Computer_Graphics_Assignments/assets/90341213/873549f0-0c6f-4048-932e-3f9b5b4c853c)
 
-#### For Case 2: (1,1),(4,8)
+### For Case 2: (1,1),(4,8)
 +  **Slope :** m=(8-1)/(4-1)=7/3>1
 + **Intermediate Coordinates:** {(1, 1), (1, 2), (2, 3), (2, 4), (3, 5), (3, 6), (4, 7), (4, 8)}
 + **Decision Variables:**  {-1, 5, -3, 3, -5, 1, -7, -1}
