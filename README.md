@@ -13,13 +13,13 @@ The modification involves :
 + **Intermediate Coordinates:** {(1, 1), (2, 1), (3, 2), (4, 2), (5, 2), (6, 3), (7, 3), (8, 4)}
 + **Decision Variables:**  {-1, 5, -3, 3, -5, 1, -7, -1}
 + **Figure:**
-   ![fig1](https://github.com/Sanzida-Afrin-Promi/Computer_Graphics_Assignments/assets/90341213/873549f0-0c6f-4048-932e-3f9b5b4c853c)
+![fig1](https://github.com/Sanzida-Afrin-Promi/Computer_Graphics_Assignments/assets/90341213/873549f0-0c6f-4048-932e-3f9b5b4c853c)
 
 ### For Case 2: (1,1),(4,8)
 +  **Slope :** m=(8-1)/(4-1)=7/3>1
 + **Intermediate Coordinates:** {(1, 1), (1, 2), (2, 3), (2, 4), (3, 5), (3, 6), (4, 7), (4, 8)}
 + **Decision Variables:**  {-1, 5, -3, 3, -5, 1, -7, -1}
 + **Figure:**
-  ![fig2](https://github.com/Sanzida-Afrin-Promi/Computer_Graphics_Assignments/assets/90341213/9301b1f4-70ef-4d64-96b5-4c7fcf2ed4b7)
+![fig2](https://github.com/Sanzida-Afrin-Promi/Computer_Graphics_Assignments/assets/90341213/9301b1f4-70ef-4d64-96b5-4c7fcf2ed4b7)
 
   
